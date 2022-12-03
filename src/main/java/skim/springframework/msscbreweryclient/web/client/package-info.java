@@ -1,0 +1,1 @@
+package skim.springframework.msscbreweryclient.web.client;
